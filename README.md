@@ -9,9 +9,10 @@ My name is David Rivier. I am product guy from London, GB where I work as a CPO 
 * Go
 * Product Management
 * Strategy
+* New businesses, start-ups, scale-ups, etc.
 * Books
 
-Some links about me:
+**Some links about me:**
 
 * [LinkedIn](https://www.linkedin.com/in/davidrivier)
 * [Twitter](https://www.twitter.com/davidrivier)
