@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently working with Python on mostly datascience concepts and learning some Go. 
+🔭 I’m currently refreshing my website
+
+💬 Ask me about Product strategy, Product management, and mostly business stuffs. 
+
+
+
 <!--
 **davidrivier/davidrivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
