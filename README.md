@@ -15,7 +15,7 @@ Some links about me:
 
 * [linkedIn](https://www.linkedin.com/in/davidrivier)
 * [Twitter](https://www.twitter.com/davidrivier)
-* [Website](htpps://www.davidrivier.com)
+* [Website](https://www.davidrivier.com)
 
 
 <!--
