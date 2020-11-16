@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-🌱 I’m currently working with Python mostly around datascience concepts and learning some Go. 
+My name is David Rivier. I am product guy from London, GB where I work as a CPO for WonderBill. 
+
+My interests are:
+
+* Software engineering in general 
+* Python and datascience
+* Product Management
+* Strategy
+* Books
+
+Some links about me:
+
+* [linkedIn](https://www.linkedin.com/in/davidrivier)
+
+
+I’m currently working with Python mostly around datascience concepts and learning some Go. 
 
 🔭 I’m currently refreshing my website
 
