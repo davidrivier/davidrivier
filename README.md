@@ -6,6 +6,7 @@ My interests are:
 
 * Software engineering in general 
 * Python and datascience
+* Go
 * Product Management
 * Strategy
 * Books
@@ -13,14 +14,8 @@ My interests are:
 Some links about me:
 
 * [linkedIn](https://www.linkedin.com/in/davidrivier)
-
-
-I’m currently working with Python mostly around datascience concepts and learning some Go. 
-
-🔭 I’m currently refreshing my website
-
-💬 Ask me about Product strategy, Product management, and mostly business stuffs. 
-
+* [Twitter](https://www.twitter.com/davidrivier)
+* [Website](htpps://www.davidrivier.com)
 
 
 <!--
