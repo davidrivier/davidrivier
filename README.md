@@ -2,7 +2,7 @@
 
 My name is David Rivier. I am product guy from London, GB where I work as a CPO for WonderBill. 
 
-My interests are:
+**My interests are:**
 
 * Software engineering in general 
 * Python and datascience
@@ -13,7 +13,7 @@ My interests are:
 
 Some links about me:
 
-* [linkedIn](https://www.linkedin.com/in/davidrivier)
+* [LinkedIn](https://www.linkedin.com/in/davidrivier)
 * [Twitter](https://www.twitter.com/davidrivier)
 * [Website](https://www.davidrivier.com)
 
