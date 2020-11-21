@@ -6,7 +6,6 @@ My name is David Rivier. I am product guy from London, GB where I work as a CPO 
 
 * Software engineering in general 
 * Python and datascience
-* Go
 * Product Management
 * Strategy
 * New businesses, start-ups, scale-ups, etc.
