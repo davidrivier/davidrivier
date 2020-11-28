@@ -15,7 +15,7 @@ My name is David Rivier. I am product guy from London, GB where I work as a CPO 
 
 * [LinkedIn](https://www.linkedin.com/in/davidrivier)
 * [Twitter](https://www.twitter.com/davidrivier)
-* [Personal website](https://www.davidrivier.com)
+* [Personal website](https://davidrivier.github.io)
 
 
 <!--
