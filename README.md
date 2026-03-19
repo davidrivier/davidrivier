@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-My name is David Rivier. I am product guy from London, GB where I work as a CPO for WonderBill. 
+My name is David Rivier. I am product guy from London, GB. 
+I was previously CPTO for UnderwriteMe, WonderBill, and Concrete Platform. 
+Previously at Barclaycard and Skype / Skyscanner in the early days.
 
 **My interests are:**
 
-* Software engineering in general 
-* Python and datascience
-* Product Management
-* Strategy
-* New businesses, start-ups, scale-ups, etc.
+* Strategy, Product Management
+* Software engineering in general, Python, AI
+* Turnaround, Transformation, start-ups, scale-ups, etc.
+* B2C, B2B, B2B2C, Enterprise => global 
 * Books
 
 **Some links about me:**
