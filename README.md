@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David Rivier. I am product guy from London, GB. 
+My name is David Rivier. I am product guy based in London, GB. 
 I was previously CPTO for UnderwriteMe, WonderBill, and Concrete Platform. 
 Previously at Barclaycard and Skype / Skyscanner in the early days.
 
